@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    height: 40vh;
+    width: 60%;
+    line-height: 2;
+    margin-top:40vh;
+    margin-left:15%;
+    text-align:center;
+}
+#counterValue{
+color:green;
+}
